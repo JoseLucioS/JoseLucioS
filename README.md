@@ -2,7 +2,7 @@
 
 - 🔭 Buscando vaga como desenvolvedor web
 - 🌱 Estudando python
-- 📖 Leitura atual: Entendendo Algoritmos - Um Guia Ilustrado Para Programadores e Outros Curiosos - Autor (Aditya Y. Bhargava)
+- 📖 Leitura atual: O Programador Pragmático - Autor (Andrew Hunt e David Thomas)
 - 📧 Contate-me: dragaolucio@gmail.com
 ##
 <div>
